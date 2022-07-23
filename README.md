@@ -1,3 +1,5 @@
+## Git Bash
+
 Продовжую своє знайомство з git, лекційний матеріал та тестові завдання на coursera це дійсно крута ідея. Маю великі надії на цей курс, далі більше.
 
 diff - show changes between commits, commit and working tree, etc
