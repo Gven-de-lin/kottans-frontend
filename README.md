@@ -18,7 +18,9 @@ git log - show commit logs
 
 git config - get and set repository or global options
 
+##Linux CLI, and HTTP
 Знайомство з  Command line Linux пройшло успішно. З Command line Linux раніше не працювала, тому більшість команд нові, але схожі на команди з Git Bash.
+Впевненна що ці знання допоможуть мені у найближчему майбутньому.
 ![image](https://user-images.githubusercontent.com/105444704/180610875-6b1869d4-4a48-4803-ad17-8138d9fc965f.png)
 ![image](https://user-images.githubusercontent.com/105444704/180610930-f24cf2ac-210b-4db6-a7b9-77dbac914047.png)
 ![image](https://user-images.githubusercontent.com/105444704/180610967-e72483eb-cccc-4069-b995-20fe50dddd91.png)
